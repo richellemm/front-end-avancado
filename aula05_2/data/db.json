@@ -1,0 +1,13 @@
+{ 
+        "alunos": [
+        {"id": 1, 
+         "nome": "Joao",
+         "curso": "SPI"},
+        {"id": 2, 
+         "nome": "Joao",
+         "curso": "SPI"},
+        {"id": 3, 
+         "nome": "José",
+         "curso": "SPI"}
+    ]
+}
