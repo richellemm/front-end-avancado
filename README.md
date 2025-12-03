@@ -1,4 +1,4 @@
-# 📘 Projeto React + Spring Boot - Aulas
+# 📘 Projeto React - Aulas
 Este projeto é destinado ao estudo da disciplina Tecnologia para Front-end Avançado, do curso Sistemas para Internet, UNIESP. 
 
 ---
