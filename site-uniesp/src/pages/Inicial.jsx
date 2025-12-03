@@ -1,9 +1,11 @@
 import React from 'react'
 import {Card, Container, Col, Row} from 'react-bootstrap'
+import BannerAd from '../components/BannerAd'
 
 const Inicial = () => {
   return (
    <Container className="py-4">
+    <BannerAd/>
     <Card className="mb-4 shadow-sm">
         <p>A Faculdade UNIESP é uma instituição comprometida em fornecer educação de qualidade, com foco no desenvolvimento profissional e pessoal...</p>
         <p> Contamos com uma equipe de professores qualificados, uma infraestrutura moderna e uma metodologia de ensino que valoriza o aprendizado prático...</p>
@@ -83,7 +85,7 @@ const Inicial = () => {
                     </Card.Body>
                 </Card>
             </Col>
-        </Row>
+        </Row>        
     </Container>
   )
 }
