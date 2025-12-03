@@ -1,4 +1,4 @@
-# 📘 Projeto React + Spring Boot - Exercício Hook Mega Sena
+# 📘 Projeto React - Exercício Hook Mega Sena
 
 Este projeto é destinado ao estudo da disciplina Tecnologia para Front-end Avançado, do curso Sistemas para Internet, UNIESP. 
 

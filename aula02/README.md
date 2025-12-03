@@ -1,4 +1,4 @@
-# 📘 Projeto React + Spring Boot - Aula 02
+# 📘 Projeto React - Aula 02
 
 Este projeto é destinado ao estudo da disciplina Tecnologia para Front-end Avançado, do curso Sistemas para Internet, UNIESP. 
 
